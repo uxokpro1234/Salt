@@ -1,8 +1,5 @@
 # Salt
 
-
-
-<p align="center">
   <b>Modern Forge 1.8.9 Utility Client</b><br>
   Built from scratch using Java, Forge and Mixins.
 </p>
