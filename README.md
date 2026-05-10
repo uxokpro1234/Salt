@@ -55,7 +55,7 @@
 
 ---
 
-# 🧠 About
+# About
 
 Veil is a custom Minecraft Forge 1.8.9 utility client/framework written entirely in Java.
 
