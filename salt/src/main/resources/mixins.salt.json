@@ -1,0 +1,23 @@
+{
+  "required": true,
+  "minVersion": "0.7",
+  "package": "me.uxokpro1234.salt.mixins",
+  "refmap": "mixins.salt.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": ["MixinEntityPlayerSP"],
+
+  "client": [
+    "MixinMinecraft",
+    "MixinRenderPlayer",
+    "MixinEntityRenderer",
+    "MixinMinecraftMenuFPS",
+    "MixinRenderPlayerChams",
+    "MixinItemRenderer",
+    "MixinEntityPlayerSP",
+    "MixinNetworkManager",
+    "MixinPlayerControllerMP"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

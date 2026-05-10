@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Salt",
+  "name": "Salt",
+  "description": "Nice mod, nice salt!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": "uxokpro1234",
+  "credits": ["manuthebyte", "ExampleModDev"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
