@@ -8,48 +8,7 @@
 
 ## ✨ Features
 
-### ⚔ Combat
-- TriggerBot
-- AimAssist
-- Reach
-- Velocity
-- SpinBot
-
-### 🏃 Movement
-- Sprint
-- Speed
-- SafeWalk
-- NoSlow
-- PacketFly
-- BoatFly
-- MinecartFly
-
-### 👤 Player
-- NoRotate
-- AntiHunger
-- PacketMine
-- BedBreaker
-- NoClip
-
-### 🎨 Render
-- FullBright
-- PlayerESP
-- Tracers
-- NameTags
-- NoRender
-- ViewModel
-- XRay
-- NoHurtCam
-
-### 🖥 Client
-- ClickGUI
-- HUD
-- ArrayList
-- Coordinates
-- FPS Display
-- Speed Display
-- Theme Settings
-
+### No features(jkjkjk)
 ---
 
 # About
