@@ -31,7 +31,7 @@ This project is mainly focused on:
 
 ---
 
-# 🛠 Technologies Used
+# Technologies Used
 
 - Java
 - Minecraft Forge 1.8.9
@@ -41,7 +41,7 @@ This project is mainly focused on:
 
 ---
 
-# 📦 Setup
+# Setup
 
 ## 1. Clone repository
 
