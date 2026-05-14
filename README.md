@@ -4,6 +4,7 @@
   Built from scratch using Java, Forge and Mixins.
 </p>
 
+<img src = salt.png>
 ---
 
 ## ✨ Features
